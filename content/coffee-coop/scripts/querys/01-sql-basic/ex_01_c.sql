@@ -21,23 +21,7 @@ ORDER BY T1.department_name ASC;
  17   | Caldas
  18   | Caquetá
  85   | Casanare
- 19   | Cauca
- 20   | Cesar
- 27   | Chocó
- 23   | Córdoba
- 25   | Cundinamarca
- 94   | Guainía
- 95   | Guaviare
- 41   | Huila
- 44   | La Guajira
- 47   | Magdalena
- 50   | Meta
- 52   | Nariño
- 54   | Norte De Santander
- 86   | Putumayo
- 63   | Quindio
- 66   | Risaralda
--- Más  --
+
 */
 
 
