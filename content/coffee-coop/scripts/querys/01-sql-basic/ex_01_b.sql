@@ -36,4 +36,4 @@ FROM geo.departments AS T1;
  85   | Casanare
  86   | Putumayo
 -- Más  --
-/*
+*/
